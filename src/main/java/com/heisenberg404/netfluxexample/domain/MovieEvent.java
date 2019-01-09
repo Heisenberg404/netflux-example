@@ -12,4 +12,6 @@ import java.util.Date;
 public class MovieEvent {
     private String movieId;
     private Date date;
+
+
 }
